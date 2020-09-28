@@ -1,5 +1,5 @@
 # Finans
-**Uma simples página que desenvolvi totalmente responsivo utilizando Boostrap 4 e as novas HTML5 e aplicando ícones Awesome**
+**Uma simples página que desenvolvi totalmente responsivo utilizando Boostrap 4, novas tags HTML5 e aplicando ícones Awesome**
 ## Imagens
 <p align="center">
 
